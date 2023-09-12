@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Rajatm544/MERN-Ecommerce.git"
+    "url": "git+https://github.com/SwastikArora23/Ecommerce-MERN.git"
   },
-  "author": "Rajat M",
+  "author": "Swastik Arora",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Rajatm544/MERN-Ecommerce/issues"
+    "url": "https://github.com/SwastikArora23/Ecommerce-MERN/issues"
   },
-  "homepage": "https://github.com/Rajatm544/MERN-Ecommerce#readme",
+  "homepage": "https://github.com/SwastikArora23/Ecommerce-MERN#readme",
   "dependencies": {
     "aws-sdk": "^2.983.0",
     "bcryptjs": "^2.4.3",

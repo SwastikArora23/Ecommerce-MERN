@@ -51,9 +51,9 @@ const sendMail = async (id, email, option) => {
 		const mailOptions = {
 			from: process.env.EMAIL, // sender address
 			to: email,
-			subject: 'Reset Password for Kosells', // Subject line
+			subject: 'Reset Password for Kelloggs', // Subject line
 			html: `<div>
-					<h2>Reset Password for your Kosells account</h2>
+					<h2>Reset Password for your Kelloggs account</h2>
 					<br/>
 					Forgot your password? No worries! Just click this link to 
 					<a href="${url}">reset your password</a>. 

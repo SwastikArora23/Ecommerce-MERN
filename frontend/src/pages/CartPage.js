@@ -74,7 +74,7 @@ const CartPage = ({ match, location, history }) => {
 
 	return (
 		<Row>
-			<Meta title='My Cart | Kosells' />
+			<Meta title='My Cart | Kelloggs' />
 			<Col md={8}>
 				<h1>Shopping Cart.</h1>
 				{!cartItems.length ? (

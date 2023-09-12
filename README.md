@@ -1,6 +1,6 @@
 <h1 align="center">
 <img src="https://user-images.githubusercontent.com/42696800/147324216-b7c6f919-e9c4-4e3a-9411-4ffabb3a35d2.png" alt="logo" width="30" height="30" />
-Kosells
+Kelloggs
 	
 </h1>
 An installable e-commerce app built using the MERN stack, Redux.js, Bootstrap 5 and AWS's S3 Storage. The user authentication includes basic authentication.
@@ -19,7 +19,7 @@ You can obtain the MONGO_URI after creating a collection on [mongodb atlas](http
 
 ## Info
 
--   **Kosells** is an installable E-commerce PWA.
+-   **Kelloggs** is an installable E-commerce PWA.
 -   It has been built from scratch using the MERN stack with the client side using a redux store as well. Bootstrap 5 is used along with some custom styling.
 -   The client side uses React hooks along with Redux.js and redux-thunk middleware
 -   The server side is built using the express framework of node.js.

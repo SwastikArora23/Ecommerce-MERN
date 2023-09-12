@@ -81,7 +81,7 @@ const Header = () => {
 								className='nav-logo'
 								alt='logo'
 							/>
-							Kellogg's
+							Kelloggs
 						</Navbar.Brand>
 					</LinkContainer>
 
