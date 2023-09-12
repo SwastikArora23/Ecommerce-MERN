@@ -41,7 +41,7 @@ You can obtain the MONGO_URI after creating a collection on [mongodb atlas](http
 -   The admin panel also provides information regarding all orders and users.
 -   The app has only 1 payment option available, as of now:
 
-    i) The [Stripe API](https://stripe.com/en-in) is used to accept payments via a **Credit or Debit Card**. Since the app is still using the sandbox version, you can test this using 4242 4242 4242 4242 and any combition of date/cvv
+The [Stripe API](https://stripe.com/en-in) is used to accept payments via a **Credit or Debit Card**. Since the app is still using the sandbox version, you can test this using 4242 4242 4242 4242 and any combition of date/cvv
 
 -   The images for the user avatar and the product are stored in a private AWS S3 bucket.
 -   The app is responsive and is also an installable progressive web app, with a notification sent to the user everytime the app has an update.
